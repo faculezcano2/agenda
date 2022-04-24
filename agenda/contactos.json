@@ -1,0 +1,29 @@
+{
+    "contactos": [
+        {
+            "nombre": "faasdf",
+            "numero": "asfdads",
+            "email": "dsaf"
+        },
+        {
+            "nombre": "facundo",
+            "numero": "32423",
+            "email": "dasf"
+        },
+        {
+            "nombre": "leandro",
+            "numero": "3454654",
+            "email": "fasfgg"
+        },
+        {
+            "nombre": "jaimito",
+            "numero": "543543",
+            "email": "jaimito5@gmail.com"
+        },
+        {
+            "nombre": "adfs",
+            "numero": "435",
+            "email": "gsfdg"
+        }
+    ]
+}

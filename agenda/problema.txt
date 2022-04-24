@@ -1,0 +1,4 @@
+24 de abril de 2022
+mi idea era agregarle la funcionalidad de buscar y eliminar un contacto, pero no encuentro la forma de que itere sobre el objeto 'Contacto'.
+asi como esta el codigo me tira este error: ' TypeError: 'Contacto' object is not subscriptable '.
+mi idea es seguir estudiando cursos de python y encontrar la forma de poder hacerlo
